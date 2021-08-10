@@ -1,0 +1,4 @@
+PUSH 100
+PUSH 100
+-
+PRINT

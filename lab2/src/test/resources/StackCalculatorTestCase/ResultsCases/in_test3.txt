@@ -1,0 +1,6 @@
+DEFINE a 12
+DEFINE b 21
+PUSH a
+PUSH b
+-
+PRINT

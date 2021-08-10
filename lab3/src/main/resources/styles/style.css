@@ -1,0 +1,22 @@
+#main-window{
+    -fx-background-image: url("../images/map.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 600 400;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+}
+
+#end-window{
+    -fx-background-image: url("../images/endGame.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 600 400;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+}
+
+#text-score{
+    -fx-font-size: 55px;
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+    -tab-text-color: -fx-text-base-color ;
+
+}
