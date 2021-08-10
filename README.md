@@ -20,5 +20,7 @@ Stack calculator on java with operations (`POP`, `PUSH`, `+`, `-`, `*`, `/`, `SQ
 
 ## Lab3
 
-The game is written using the JavaFX library.
-### Screenshot of game
+The game is written using the JavaFX library on MVP pattern. Among JavaFx view, there is also a console view.
+### Screenshots of game
+![game1](https://user-images.githubusercontent.com/64182789/128845236-1a73daf2-40af-4726-8472-c5746b156913.png)
+![game2](https://user-images.githubusercontent.com/64182789/128845247-044f591c-0a7f-4f67-b352-9cf4e7e2117f.png)
